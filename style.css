@@ -1,0 +1,44 @@
+.Siegen{
+    font-style: oblique;
+    color: red;
+    border-color: blue;
+    border-style: double;
+    border-width: 20px;
+    text-transform: uppercase;
+    background-color: rgba(255, 230, 0, 0.469);
+   
+    
+}
+h5 {
+    text-decoration:wavy;
+    
+}
+h5{
+    color: rgb(22, 0, 218);
+    font-weight: 200;
+}
+ul{
+    color: rgb(226, 79, 6);
+    list-style-type:"♡ ";
+
+}
+h3{
+    border-style:ridge;
+    border-radius: 50px;
+    background-color: rgb(227, 167, 196);
+    color: rgb(131, 11, 89);
+    margin: 50px;
+    padding: 20px;
+    list-style-position: outside;
+}
+table th,td{
+   border:1px solid;
+   color: bisque;
+   
+}
+table{
+    border-collapse: collapse;
+    background-color: rgb(185, 136, 231);
+    
+    
+}
